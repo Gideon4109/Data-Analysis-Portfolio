@@ -1,0 +1,16 @@
+OrderID,CustomerID,Product_Name,Product_Category,Price,Quantity,OrderDate,Country
+1001,C001,Infinix Hot 10,Electronics,65000,1,2025-05-10,Nigeria
+1002,C002,Dangote Sugar 1kg,Groceries,1200,5,2025-05-11,Nigeria
+1003,,Milo Tin 400g,Beverages,2500,2,2025-05-11,Nigeria
+1004,C003,Samsung 40" TV,Electronics,250000,1,2025-05-12,Nigeria
+1005,C001,Indomie Noodles Carton,Groceries,8000,1,2025-05-13,Nigeria
+1006,C004,Peak Milk Tin,Beverages,800,10,2025-05-13,Nigeria
+1007,C005,Tecno Spark 8,Electronics,85000,1,2025-05-14,Nigeria
+1008,C002,Golden Penny Semovita 2kg,Groceries,2200,3,2025-05-15,Nigeria
+1009,,Coca-Cola 50cl,Beverages,300,12,2025-05-16,Nigeria
+1010,C006,LG Refrigerator,Electronics,350000,1,2025-05-17,Nigeria
+1011,C007,Orijin Bitters,Beverages,1500,1,2025-05-18,Nigeria
+1012,C001,Dangote Sugar 1kg,Groceries,1200,3,2025-05-19,Nigeria
+1013,C005,Infinix Hot 10,Electronics,65000,1,2025-05-20,Nigeria
+1014,,Peak Milk Tin,Beverages,800,5,2025-05-21,Nigeria
+1015,C002,Golden Penny Semovita 2kg,Groceries,2200,2,2025-05-22,Nigeria
