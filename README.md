@@ -26,7 +26,7 @@ Skills Demonstrated: Data Cleaning (dropna), Feature Engineering (Total_Sale cre
 
 Key Findings: Identified top-performing product categories and products by revenue, calculated total revenue, and highlighted the importance of high-value electronics in driving sales.
 
-View Project >> 
+View Project >> https://github.com/Gideon4109/Data-Analysis-Portfolio/blob/main/projectmilestone1.ipynb
 
 2. Telecom Customer Churn Analysis for ConnectNG
 This project focused on analyzing a customer dataset from a fictional Nigerian telecom company to understand the factors associated with customer churn. The objective was to provide initial insights into why customers might be leaving the service.
