@@ -2,7 +2,7 @@ Data Analysis Portfolio
 Gideon Shaibu
 Aspiring Data Analyst | Abuja, Nigeria
 
-linkedin.com/in/gideon-shaibu | gideons4109@gmail.com
+www.linkedin.com/in/gideon-shaibu | gideons4109@gmail.com
 
 About Me
 I am a detail-oriented and motivated aspiring Data Analyst with a passion for uncovering insights from data to drive business decisions. With a strong foundation in Python and its data science libraries, I specialize in cleaning, transforming, analyzing, and visualizing data to tell compelling stories. I am actively seeking entry-level and freelance opportunities where I can apply my skills to solve real-world problems.
