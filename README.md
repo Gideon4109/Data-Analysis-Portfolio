@@ -14,9 +14,9 @@ Libraries: Pandas, NumPy
 
 Data Analysis: Exploratory Data Analysis (EDA), Data Cleaning & Preprocessing, Feature Engineering
 
-Data Visualization: Matplotlib, Seaborn (currently learning)
+Data Visualization: Matplotlib, Seaborn
 
-Tools: Jupyter Notebooks, Git & GitHub
+Tools: Jupyter Notebooks, Git & GitHub, 
 
 Projects
 1. E-Commerce Sales Analysis for NaijaCart
